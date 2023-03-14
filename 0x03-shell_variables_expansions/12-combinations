@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c 'echo {a..z}{a..z}.suffix'
+bash -c 'echo {a..z}{a..z}'
